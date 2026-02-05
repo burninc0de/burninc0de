@@ -15,6 +15,7 @@ I spend my days hacking away at manuscripts and my nights wrangling bits and byt
 * **[helowrite](https://github.com/burninc0de/helowrite)** – A minimalist, distraction-free sanctuary for prose. Built to eliminate the friction between thought and text.
 * **[epub-moe](https://github.com/burninc0de/epub-moe)** – A React-based editor for surgical precision in EPUB media overlays. Because sometimes "auto-sync" just doesn't cut it for language learners.
 * **[socialsox](https://github.com/burninc0de/socialsox)** – A cross-platform desktop app for shouting into the void (Mastodon, X, Bluesky) without losing your mind.
+* **[kde-filtered-taskbar](https://github.com/burninc0de/kde-filtered-taskbar)** – A minimal KDE Plasma 6 widget for filtering taskbar applications. Show only what matters, close with ease.
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
