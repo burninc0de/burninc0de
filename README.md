@@ -19,11 +19,11 @@ I spend my days hacking away at manuscripts and my nights wrangling bits and byt
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get VS Code “Native Tabs” on KDE Plasma &lpar;Linux&rpar;](https://andreklein.net/vs-code-native-tabs-linux-kde/)
 - [HeloWrite: A Minimalist Terminal Word Processor for Writers](https://andreklein.net/helowrite-terminal-word-processor/)
 - [Modern App Icons Missing on Win11? How a 10-Year-Old Registry Key Ghosted My Taskbar Icons](https://andreklein.net/modern-app-icons-missing-on-win11-how-a-10-year-old-registry-ghosted-my-taskbar-icons/)
 - [AI Isn’t Killing Learning. Our Standards Were Already on Life Support](https://andreklein.net/ai-isnt-killing-learning-our-standards-were-already-on-life-support/)
 - [The AI Paradox: It Only Works If You Already Know How](https://andreklein.net/the-ai-paradox-it-only-works-if-you-already-know-how/)
-- [Vibe Coding Is Just Copy-Pasting From StackOverflow With Extra Steps &lpar;and a Better UI&rpar;](https://andreklein.net/vibe-coding-is-just-copy-pasting-from-stackoverflow-with-extra-steps-and-a-better-ui/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Vital Signs
