@@ -19,7 +19,7 @@ I spend my days hacking away at manuscripts and my nights wrangling bits and byt
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A Terminal-First Workflow On Windows: No More Middlemen](https://andreklein.net/a-terminal-first-workflow-on-windows-no-more-middlemen/)
+- [Taming WSL into a Tactical Workbench For A Terminal-First Workflow](https://andreklein.net/taming-wsl-into-a-tactical-workbench-for-a-terminal-first-workflow/)
 - [How to get VS Code “Native Tabs” on KDE Plasma &lpar;Linux&rpar;](https://andreklein.net/vs-code-native-tabs-linux-kde/)
 - [HeloWrite: A Minimalist Terminal Word Processor for Writers](https://andreklein.net/helowrite-terminal-word-processor/)
 - [Modern App Icons Missing on Win11? How a 10-Year-Old Registry Key Ghosted My Taskbar Icons](https://andreklein.net/modern-app-icons-missing-on-win11-how-a-10-year-old-registry-ghosted-my-taskbar-icons/)
