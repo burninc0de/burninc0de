@@ -15,6 +15,7 @@ I spend my days hacking away at manuscripts and my nights wrangling bits and byt
 * **[helowrite](https://github.com/burninc0de/helowrite)** – A minimalist, distraction-free sanctuary for prose. Built to eliminate the friction between thought and text.
 * **[epub-moe](https://github.com/burninc0de/epub-moe)** – A React-based editor for surgical precision in EPUB media overlays. Because sometimes "auto-sync" just doesn't cut it for language learners.
 * **[socialsox](https://github.com/burninc0de/socialsox)** – A cross-platform desktop app for shouting into the void (Mastodon, X, Bluesky) without losing your mind.
+* * **[socialsox-tui](https://github.com/burninc0de/socialsox-tui)** – A minimalistic TUI crossposter for Mastodon, X, Bluesky with image and video support
 * **[kde-filtered-taskbar](https://github.com/burninc0de/kde-filtered-taskbar)** – A minimal KDE Plasma 6 widget for filtering taskbar applications. Show only what matters, close with ease.
 * **[copilot-usage-tracker](https://github.com/burninc0de/copilot-usage-tracker)** – A dual-interface tool for monitoring your GitHub Copilot Pro usage. Terminal UI or system tray icon.
 
