@@ -8,7 +8,7 @@ I spend my days hacking away at manuscripts and my nights wrangling bits and byt
 
 ### 🛠️ The Digital Workbench
 * **The Day Job:** Independent publisher & author of [Dino lernt Deutsch](https://books.learnoutlive.com/category/dino-lernt-deutsch/).
-* **The Night Shift:** Open source enjoyer, Linux desktop convert (CachyOS), and builder of niche tools.
+* **The Night Shift:** Open source enjoyer, Linux desktop convert (CachyOS/Omarchy), and builder of niche tools.
 * **Workflow:** If a task exists, it should be a script. If a script exists, it will free up precious time to write another script.
 
 ### 🚀 Projects I Actually Finished (Mostly)
