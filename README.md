@@ -21,11 +21,11 @@ I spend my days hacking away at manuscripts and my nights wrangling bits and byt
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
 - [The Feed Is A Lie](https://andreklein.net/the-feed-is-a-lie/)
 - [Building My Own Markdown Publishing Suite, or: Dogfooding Until It Clicks](https://andreklein.net/building-my-own-markdown-publishing-suite-or-dogfooding-until-it-clicks/)
 - [Fauxmarchy: A Sacrilegious Hyprland/KDE Setup](https://andreklein.net/fauxmarchy-a-sacrilegious-hyprland-setup/)
 - [Vault Dweller: How I Ditched The Cloud For A Pi And A Git Repo](https://andreklein.net/vault-dweller-how-i-ditched-the-cloud-for-a-pi-and-a-git-repo/)
-- [I Went Back to Boring Web Dev, and I’m Not Sorry](https://andreklein.net/i-went-back-to-boring-web-dev-and-im-not-sorry/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Vital Signs
