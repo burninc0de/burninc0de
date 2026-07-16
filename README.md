@@ -22,7 +22,7 @@ I spend my days hacking away at manuscripts and my nights wrangling bits and byt
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Backtick That &lpar;Almost&rpar; Broke Me: Fixing German XKB Dead Keys on Linux](https://andreklein.net/the-backtick-that-almost-broke-me-fixing-german-xkb-dead-keys-on-linux/)
-- [I Put a Dock on My Hyprland and I’d Do It Again](https://andreklein.net/i-put-a-dock-on-my-hyprland-and-id-do-it-again/)
+- [A Minimalist Quickshell Dock For Hyprland](https://andreklein.net/i-put-a-dock-on-my-hyprland-and-id-do-it-again/)
 - [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
 - [A Social Media Crossposter For The Terminal](https://andreklein.net/a-social-media-crossposter-for-the-terminal/)
 - [Building My Own Markdown Publishing Suite, or: Dogfooding Until It Clicks](https://andreklein.net/building-my-own-markdown-publishing-suite-or-dogfooding-until-it-clicks/)
