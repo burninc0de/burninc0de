@@ -27,9 +27,6 @@ I spend my days hacking away at manuscripts and my nights wrangling bits and byt
 - [Building My Own Markdown Publishing Suite, or: Dogfooding Until It Clicks](https://andreklein.net/building-my-own-markdown-publishing-suite-or-dogfooding-until-it-clicks/)
 <!-- BLOG-POST-LIST:END -->
 
-### ∶ Vital Signs
-![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=burninc0de&layout=compact&theme=tokyonight&hide_border=true)
-
 ### ∶ Where to Find Me
 - **Blog:** [andreklein.net](https://andreklein.net/blog)
 - **Socials:** [Mastodon](https://mastodon.social/@andreklein) | [Twitter](https://x.com/BarrenCode)
