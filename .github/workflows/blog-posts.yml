@@ -20,3 +20,5 @@ jobs:
           # Replace this with your actual RSS feed URL
           feed_list: "https://andreklein.net/feed/"
           max_post_count: 5
+          # Custom UA required — Cloudflare blocks the default "rss-parser" UA from GitHub Actions IPs (returns 403)
+          user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
