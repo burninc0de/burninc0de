@@ -18,11 +18,11 @@ I spend my days hacking away at manuscripts and my nights wrangling bits and byt
 
 ### ∶ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Authenticator Spams Sign-In Requests Without Even Needing Your Password](https://andreklein.net/microsoft-authenticator-spams-sign-in-requests-without-even-needing-your-password/)
 - [ASUS Keyboard Backlight Dimming On Linux](https://andreklein.net/asus-keyboard-backlight-dimming-on-linux/)
 - [Omarchy Quattro Is The WordPress Of Linux Distros](https://andreklein.net/omarchy-quattro-is-the-wordpress-of-linux-distros/)
 - [DNS Debt: How Phishing Campaigns Pass DKIM Without Hacking Anything](https://andreklein.net/dns-debt-how-phishing-campaigns-pass-dkim-without-hacking-anything/)
 - [Your Logs Are Crawling With Ants](https://andreklein.net/your-logs-are-crawling-with-ants/)
-- [The Backtick That &lpar;Almost&rpar; Broke Me: Fixing German XKB Dead Keys on Linux](https://andreklein.net/the-backtick-that-almost-broke-me-fixing-german-xkb-dead-keys-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ∶ Where to Find Me
