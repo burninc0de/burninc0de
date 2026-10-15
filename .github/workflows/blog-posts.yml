@@ -17,6 +17,5 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # Replace this with your actual RSS feed URL
-          feed_list: "https://andreklein.net/feed/"
+          feed_list: "https://feeds.feedburner.com/andre_klein"
           max_post_count: 5
